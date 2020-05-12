@@ -1,0 +1,14 @@
+{
+	"mercadolibre":{
+		
+		"queries": {
+
+			"data":{
+				"tag":"script",
+				"type":"application/ld+json"
+				
+				}
+
+		}
+	}
+}
